@@ -31,7 +31,7 @@ void ssort(int * arr, int size)
   // This function has two levels of for
   // The first level specifies which element in the array
   // The second level finds the smallest element among the unsorted
-  // elements.
+  // elements
 
   // This is the syntax to read or write an array element:
   // int x = arr[4];
