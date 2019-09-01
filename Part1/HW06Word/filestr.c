@@ -32,6 +32,5 @@ int countWord(char * filename, char * word, char * line, int size)
   // the first match occurs. Thus, the next match starts at the third
   // character. For this case, the correct answer is 2, not 4.
   
-  return 0;
 }
 #endif
